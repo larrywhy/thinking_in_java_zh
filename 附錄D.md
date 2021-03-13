@@ -207,7 +207,7 @@ http://www.cs.cmu.edu/~jch/java/resources.html
 
 http://www.cs.cmu.edu/~jch/java/speed.html
 
-[9] “An Empirical Study of FORTRAN Programs”（FORTRAN程序實戰解析）。作者：Donald Knuth。1971年出版。第1卷，p.105-33，“軟件——實踐和練習”。
+[9] “An Empirical Study of FORTRAN Programs”（FORTRAN程序實戰解析）。作者：Donald Knuth。1971年出版。第1卷，p.105-33，“軟體——實踐和練習”。
 
 [10] “Building High-Performance Applications and Servers in Java:An Experiential Study”。作者:Jimmy Nguyen，Michael Fraenkel，RichardRedpath，Binh Q. Nguyen以及Sandeep K. Singhal。IBM T.J. Watson ResearchCenter,IBM Software Solutions。
 
@@ -225,7 +225,7 @@ http://www.ibm.com/java/education/javahipr.html
 
 [14] 《More Programming Pearls》（編程珠璣第二版）。作者：JonBentley。“Association for Computing Machinery”，1998年2月。
 
-[15] 《Programming Pearls》（編程珠璣）。作者：Jone Bentley。Addison-Wesley 1989年出版。第2部分強調了常規的性能改善問題。 [16] 《Code Complete:A Practical Handbook of Software Construction》（完整代碼索引：實用軟件開發手冊）。作者：Steve McConnell。Microsoft出版社1993年出版，第9章。
+[15] 《Programming Pearls》（編程珠璣）。作者：Jone Bentley。Addison-Wesley 1989年出版。第2部分強調了常規的性能改善問題。 [16] 《Code Complete:A Practical Handbook of Software Construction》（完整代碼索引：實用軟體開發手冊）。作者：Steve McConnell。Microsoft出版社1993年出版，第9章。
 
 [17] 《Object-Oriented System Development》（面向對象系統的開發）。作者：Champeaux，Lea和Faure。第25章。
 
