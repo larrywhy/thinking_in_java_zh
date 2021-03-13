@@ -6,11 +6,15 @@
 ![](https://img.shields.io/badge/Revision-Wizardforcel-lightgrey.svg)
 ![](https://img.shields.io/badge/Quanke-Wizardforcel-lightgrey.svg)
 ![](https://img.shields.io/badge/Translator-Chen%20Po%20Wei-blue.svg) 
+![](https://img.shields.io/badge/Translator-larrywhy-blue.svg) 
+
 
 
 <center>
 <img src="/image/cover.jpg" width="40%" height="40%" />
 </center>
+
+> 警告!!! 此中文版僅為翻譯學術研究練習用，非商業盈利用途，建議讀者喜歡的話，可以去購買原書支持作者。 
 
 * [Java 編程思想](README.md)
 * [寫在前面的話](寫在前面的話.md)
